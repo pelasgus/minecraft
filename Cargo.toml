@@ -1,6 +1,10 @@
 [package]
 name = "minecraft"
 version = "0.0.1"
-edition = "2021"
+edition = "2024"
+description = "A universal Minecraft® downloader!"
+license = "LGPL-3.0"
+authors = ["D.A.Pelasgus"]
+homepage = "https://minecraft.rs"
 
 [dependencies]

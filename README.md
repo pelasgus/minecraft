@@ -1,7 +1,7 @@
 <!--Author: D.A.Pelasgus-->
 <p align="center"><img src="assets/logo.svg" alt="Minecraft®" style="width: 1000px;" /></p>
 
-[![status](https://img.shields.io/badge/status-stable-%233e5c20.svg?style=for-the-badge)](https://github.com/chimeraos/install-media/releases/latest)[![License](https://img.shields.io/badge/License-LGPL-%233e5c20.svg?style=for-the-badge)](https://minecraft.rs)[![website](https://img.shields.io/badge/website-minecraft.rs-%233e5c20.svg?style=for-the-badge)](https://minecraft.rs)[![Made with Love](https://img.shields.io/badge/made_with-❤-%233e5c20.svg?style=for-the-badge)](https://minecraft.rs)
+[![status](https://img.shields.io/badge/status-stable-%233e5c20.svg?style=for-the-badge)](https://github.com/pelasgus/minecraft/releases/latest)[![License](https://img.shields.io/badge/License-LGPL-%233e5c20.svg?style=for-the-badge)](https://minecraft.rs)[![website](https://img.shields.io/badge/website-minecraft.rs-%233e5c20.svg?style=for-the-badge)](https://minecraft.rs)[![Made with Love](https://img.shields.io/badge/made_with-❤-%233e5c20.svg?style=for-the-badge)](https://minecraft.rs)
 
 A universal Minecraft® downloader! 
 

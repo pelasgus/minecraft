@@ -8,3 +8,4 @@ authors = ["D.A.Pelasgus"]
 homepage = "https://minecraft.rs"
 
 [dependencies]
+minecraft-cli = "0.0.1"
